@@ -53,7 +53,9 @@ Bot: Goodbye! Have a great day!
 
 ## 📸 Screenshots
 
-Add your chatbot screenshots here.
+## 📸 Project Screenshot
+
+![Chatbot Output](chatbot_output.png)
 
 ```markdown
 ![Chatbot Output](screenshots/chatbot_output.png)
@@ -61,7 +63,11 @@ Add your chatbot screenshots here.
 
 ## 👩‍💻 Author
 
-**Harini Rajamanickam**
+**Harini R**
+GitHub: https://github.com/harinir-12
+
+LinkedIn: https://www.linkedin.com/in/harini-r-b9832a38b
+
 
 Python Programming Intern – CodeAlpha
 
