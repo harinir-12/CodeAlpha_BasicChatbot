@@ -55,7 +55,7 @@ Bot: Goodbye! Have a great day!
 
 ## 📸 Project Screenshot
 
-![Chatbot Output](chatbot_output.png) Screenshot 2026-07-14 205906.png
+![Chatbot Output](chatbot_output.png) 
 
 ```markdown
 ![Chatbot Output](screenshots/chatbot_output.png)
