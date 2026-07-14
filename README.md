@@ -58,7 +58,7 @@ Bot: Goodbye! Have a great day!
 ![Chatbot Output](chatbot_output.png) 
 
 ```markdown
-![Chatbot Output]
+![Chatbot Output].(chatbot_output.png).
 ```
 
 ## 👩‍💻 Author
